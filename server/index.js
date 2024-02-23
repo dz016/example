@@ -18,6 +18,7 @@ app.use("/user", userRouter);
 //   useNewUrlParser: true,
 //   useUnifiedTopology: true,
 //   dbName: "courses",
+//sdfsdf
 // });
 
 app.listen(3000, () => console.log("Server running on port 3000"));
